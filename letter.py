@@ -5,3 +5,5 @@ for letter in word:
     if letter==character:
         count+=1
 print(f"{character} appeared {count} many times in {word}")
+ 
+ 
